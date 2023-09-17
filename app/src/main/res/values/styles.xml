@@ -1,0 +1,6 @@
+<resources>
+    <!-- Estilo mínimo AppTheme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Nenhum atributo personalizado definido aqui -->
+    </style>
+</resources>
